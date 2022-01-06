@@ -54,4 +54,13 @@ public class ClientModel {
 		this.mail = mail;
 	}
 
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+	
+
 }
